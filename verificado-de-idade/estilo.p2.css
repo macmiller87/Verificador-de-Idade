@@ -1,0 +1,22 @@
+body {
+    background: rgb(136, 136, 223);
+    text-align: center;
+    color: white;
+}
+
+section {
+    background: white;
+    color: blue;
+    text-align: left;
+    box-shadow: 3px 3px 10px;
+    margin: auto;
+    width: 340px;
+    height: 400px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#figura{
+    text-align: center;
+    font-size: 200px;
+}
