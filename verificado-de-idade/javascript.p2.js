@@ -88,4 +88,4 @@ function verificar() {
             }
      dados.innerHTML =""           
     }
-}      
+}     

@@ -5,8 +5,8 @@ body {
 }
 
 section {
-    background: white;
-    color: blue;
+    background-color: white;
+    color:black;
     text-align: left;
     box-shadow: 3px 3px 10px;
     margin: auto;
@@ -19,4 +19,13 @@ section {
 #figura{
     text-align: center;
     font-size: 200px;
+}
+
+input.verificar {
+    background-color: yellow;
+    color: black;
+}
+
+footer {
+    font-size: 26px;
 }
